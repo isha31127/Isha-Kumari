@@ -1,12 +1,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=MCA+(AI+%26+ML)+Student;Aspiring+Software+Engineer;Machine+Learning+Enthusiast;Problem+Solver;Building+AI-Powered+Applications"/>
 
-Academic Badges
+**Academic Badges**
 
 <img src="https://img.shields.io/badge/MCA-AI%20%26%20ML-7C3AED?style=for-the-badge&logo=academia&logoColor=white"/>
 <img src="https://img.shields.io/badge/BCA-CGPA%209.61-6366F1?style=for-the-badge&logo=bookstack&logoColor=white"/>
 <img src="https://img.shields.io/badge/HackerRank-Software%20Engineer-A855F7?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 
-About Section
+**About Section**
 
 MCA (Artificial Intelligence & Machine Learning) student with strong foundations in Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Software Engineering, and Machine Learning.
 
@@ -15,33 +15,33 @@ Experienced in developing AI-powered applications using Python, Scikit-Learn, Pa
 I enjoy transforming ideas into practical solutions through analytical thinking, continuous learning, and hands-on project development.
 
 
-Open To
+**Open To**
 - Software Engineer Roles
 - AI / ML Engineer Roles
 - Graduate Trainee Programs
 - Internship Opportunities
 - Technical Communities & Collaborations
 
-Tech Stack
+**Tech Stack**
 
-Languages
+**Languages**
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,mysql,html,css" />
 </p>
-Core Computer Science
+**Core Computer Science**
 <p align="center">
 Data Structures & Algorithms • Object-Oriented Programming • DBMS • Operating Systems • Software Engineering
 </p>
-AI & ML
+**AI & ML**
 <p align="center">
 Python • Scikit-Learn • Pandas • NumPy • Streamlit • Machine Learning • Generative AI
 </p>
-Tools
+**Tools**
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-AI / ML Expertise Table
+**AI / ML Expertise Table**
 
 | Domain | Proficiency | Details |
 |----------|------------|----------|
@@ -54,32 +54,46 @@ AI / ML Expertise Table
 | Predictive Analytics | Advanced | Data-Driven Decision Making |
 | Generative AI | Intermediate | LLM & AI Fundamentals |
 
-Featured Projects
+**Featured Projects**
 
 1. Career Guidance System
+
 Python • Machine Learning • Pandas • Scikit-Learn
+
 Developed a recommendation system that suggests career paths based on user interests and skills. Implemented machine learning-based prediction and personalized recommendations to support career decision-making.
 
-2. Movie Recommendation System
+3. Movie Recommendation System
+   
 Python • Pandas • NumPy
+
 Built a content-based recommendation engine that generates personalized movie suggestions using similarity techniques and user preferences.
 
-3. Phishing Detection Using ML
+5. Phishing Detection Using ML
+   
 Python • Streamlit • Scikit-Learn • SHAP
+
 Developed a phishing URL detection system using Random Forest. Extracted URL-based features and implemented explainable AI techniques to improve prediction transparency.
 
-Experience
+**Experience**
 
-Software Engineering Job Simulation — Accenture
+**Software Engineering Job Simulation — Accenture
+**
 August 2025
+
 Completed a software engineering simulation focused on solving real-world business challenges through engineering best practices and structured development workflows.
-Skills:
+
+**Skills:**
+
 Software Engineering • Problem Solving • Requirements Analysis • Technical Documentation
 
-Software Engineer Certification — HackerRank
+**Software Engineer Certification — HackerRank**
+
 April 2026
+
 Successfully completed HackerRank's Software Engineer assessment demonstrating software development and problem-solving competency.
-Skills:
+
+**Skills:**
+
 Programming • Algorithms • Software Engineering • Problem Solving
 
 Achievements
@@ -92,7 +106,7 @@ Achievements
 | Software Engineering Certification | HackerRank Certified |
 | Industry Exposure | Accenture Software Engineering Simulation |
 
-Certifications
+**Certifications**
 
 <img src="https://img.shields.io/badge/IIT%20Madras-AI%20%26%20ML%20in%20Python-7C3AED?style=for-the-badge"/>
 
@@ -100,7 +114,7 @@ Certifications
 
 <img src="https://img.shields.io/badge/Accenture-Software%20Engineering%20Simulation-A100FF?style=for-the-badge"/>
 
-Current Focus YAML
+**Current Focus **YAML
 
 Learning:
   - Data Structures & Algorithms
