@@ -209,6 +209,8 @@ Demonstrated software engineering competency through coding assessments and prac
 
 </div>
 
+---
+
 # Current Focus
 
 ```yaml
@@ -219,22 +221,27 @@ Learning:
   - Software Engineering
 
 Building:
-  - Machine Learning Applications
+  - AI-Powered Applications
   - Recommendation Systems
-  - AI-Powered Projects
+  - ML Deployment Systems
+  - Open Source Projects
 
 Exploring:
   - Explainable AI
-  - Large Language Models
+  - LLM Applications
+  - MLOps
   - Software Design Principles
 
 Open_To:
-  - Software Engineer Roles
-  - AI/ML Engineer Roles
+  - Software Engineering Roles
+  - AI/ML Engineering Roles
+  - Technical Opportunities
   - Internship Opportunities
-  - Technical Collaborations
+  - Open Source Collaboration
 ```
+
 ---
+
 # Connect
 
 <div align="center">
@@ -242,7 +249,7 @@ Open_To:
 <i>"Turning ideas into intelligent software through continuous learning, problem solving, and innovation."</i>
 
 </div>
-# Connect
+
 
 <div align="center">
 
