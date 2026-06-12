@@ -74,29 +74,56 @@ Python • Streamlit • Scikit-Learn • SHAP
 
 Developed a phishing URL detection system using Random Forest. Extracted URL-based features and implemented explainable AI techniques to improve prediction transparency.
 
-**Experience**
+# Experience
 
-**Software Engineering Job Simulation — Accenture
-**
-August 2025
+## Software Engineering Virtual Experience Program — Accenture
 
-Completed a software engineering simulation focused on solving real-world business challenges through engineering best practices and structured development workflows.
+**Date Range:** 2026
 
-**Skills:**
+### Professional Description
 
-Software Engineering • Problem Solving • Requirements Analysis • Technical Documentation
+Completed an industry-focused software engineering simulation emphasizing enterprise software development, agile collaboration, architecture evaluation, and technical problem-solving.
 
-**Software Engineer Certification — HackerRank**
+### Scope of Work
 
-April 2026
+- Analyzed enterprise software requirements
+- Applied software engineering principles
+- Evaluated architecture decisions
+- Produced technical documentation
+- Practiced agile methodologies
+- Simulated real-world engineering workflows
 
-Successfully completed HackerRank's Software Engineer assessment demonstrating software development and problem-solving competency.
+### Skills
 
-**Skills:**
+`Software Engineering` `Agile` `Architecture Design` `Problem Solving` `Documentation`
 
-Programming • Algorithms • Software Engineering • Problem Solving
+---
 
-Achievements
+## Software Engineering Certification — HackerRank
+
+**Date Range:** 2026
+
+### Professional Description
+
+Demonstrated software engineering competency through coding assessments and practical problem-solving challenges.
+
+### Scope of Work
+
+- Data Structures & Algorithms
+- Software Development Principles
+- Debugging & Optimization
+- Technical Assessments
+
+### Skills
+
+`Algorithms` `Problem Solving` `Coding` `Software Engineering`
+
+---
+
+# Achievements
+
+<div align="center">
+
 | Recognition | Details |
 |-------------|---------|
 | State-Level Ideathon | Secured 2nd Runner-Up Position |
@@ -106,13 +133,81 @@ Achievements
 | Software Engineering Certification | HackerRank Certified |
 | Industry Exposure | Accenture Software Engineering Simulation |
 
-**Certifications**
+</div>
+
+---
+
+# Certifications
 
 <img src="https://img.shields.io/badge/IIT%20Madras-AI%20%26%20ML%20in%20Python-7C3AED?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/HackerRank-Software%20Engineer-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Accenture-Software%20Engineering%20Simulation-A100FF?style=for-the-badge"/>
+
+# Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Isha_3112/">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/ishakumev2x">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/ik31127">
+<img src="https://img.shields.io/badge/HackerRank-Certified%20Developer-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</div>
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 **Current Focus **YAML
 
@@ -141,5 +236,35 @@ Open_To:
   <div align="center">
 
 <i>"Turning ideas into intelligent software through continuous learning, problem solving, and innovation."</i>
+
+</div>
+# Connect
+
+<div align="center">
+
+<a href="mailto:ishakumaridng@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="www.linkedin.com/in/isha-kumari-6874ab258">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/isha31127">
+<img src="https://img.shields.io/badge/GitHub-Follow-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+
+</div>
+
+---
+
+<div align="center">
+
+*"Engineering intelligent systems today to solve tomorrow's challenges."*
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4F46E5,25:6366F1,50:7C3AED,75:8B5CF6,100:A855F7"/>
 
 </div>
