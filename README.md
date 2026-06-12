@@ -62,13 +62,13 @@ Python • Machine Learning • Pandas • Scikit-Learn
 
 Developed a recommendation system that suggests career paths based on user interests and skills. Implemented machine learning-based prediction and personalized recommendations to support career decision-making.
 
-3. Movie Recommendation System
+2. Movie Recommendation System
    
 Python • Pandas • NumPy
 
 Built a content-based recommendation engine that generates personalized movie suggestions using similarity techniques and user preferences.
 
-5. Phishing Detection Using ML
+3. Phishing Detection Using ML
    
 Python • Streamlit • Scikit-Learn • SHAP
 
@@ -209,7 +209,9 @@ Demonstrated software engineering competency through coding assessments and prac
 
 </div>
 
-**Current Focus **YAML
+# Current Focus
+
+```yaml
 
 Learning:
   - Data Structures & Algorithms
@@ -233,7 +235,11 @@ Open_To:
   - Internship Opportunities
   - Technical Collaborations
 
-  <div align="center">
+---
+
+# Connect
+
+<div align="center">
 
 <i>"Turning ideas into intelligent software through continuous learning, problem solving, and innovation."</i>
 
