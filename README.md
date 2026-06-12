@@ -1,12 +1,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=MCA+(AI+%26+ML)+Student;Aspiring+Software+Engineer;Machine+Learning+Enthusiast;Problem+Solver;Building+AI-Powered+Applications"/>
 
-**Academic Badges**
+#Academic Badges
 
 <img src="https://img.shields.io/badge/MCA-AI%20%26%20ML-7C3AED?style=for-the-badge&logo=academia&logoColor=white"/>
 <img src="https://img.shields.io/badge/BCA-CGPA%209.61-6366F1?style=for-the-badge&logo=bookstack&logoColor=white"/>
 <img src="https://img.shields.io/badge/HackerRank-Software%20Engineer-A855F7?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 
-**About Section**
+# About Section
 
 MCA (Artificial Intelligence & Machine Learning) student with strong foundations in Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Software Engineering, and Machine Learning.
 
@@ -15,33 +15,33 @@ Experienced in developing AI-powered applications using Python, Scikit-Learn, Pa
 I enjoy transforming ideas into practical solutions through analytical thinking, continuous learning, and hands-on project development.
 
 
-**Open To**
+### Open To
 - Software Engineer Roles
 - AI / ML Engineer Roles
 - Graduate Trainee Programs
 - Internship Opportunities
 - Technical Communities & Collaborations
 
-**Tech Stack**
+# Tech Stack
 
-**Languages**
+## Languages
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,mysql,html,css" />
 </p>
-**Core Computer Science**
+## Core Computer Science
 <p align="center">
 Data Structures & Algorithms • Object-Oriented Programming • DBMS • Operating Systems • Software Engineering
 </p>
-**AI & ML**
+## AI & ML
 <p align="center">
 Python • Scikit-Learn • Pandas • NumPy • Streamlit • Machine Learning • Generative AI
 </p>
-**Tools**
+## Tools
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-**AI / ML Expertise Table**
+# AI / ML Expertise Table
 
 | Domain | Proficiency | Details |
 |----------|------------|----------|
@@ -212,7 +212,6 @@ Demonstrated software engineering competency through coding assessments and prac
 # Current Focus
 
 ```yaml
-
 Learning:
   - Data Structures & Algorithms
   - Machine Learning
@@ -234,9 +233,8 @@ Open_To:
   - AI/ML Engineer Roles
   - Internship Opportunities
   - Technical Collaborations
-
+```
 ---
-
 # Connect
 
 <div align="center">
