@@ -1,457 +1,131 @@
-# <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=MCA+(AI+%26+ML)+Student;Aspiring+Software+Engineer;Machine+Learning+Enthusiast;Problem+Solver;Building+AI-Powered+Applications"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,25:6366F1,50:7C3AED,75:8B5CF6,100:A855F7&text=Isha%20Kumari&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn"/>
+Academic Badges
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Software+Engineer;AI%2FML+Engineer;Full+Stack+Developer;Open+Source+Contributor;Building+Scalable+Products+with+AI"/>
+<img src="https://img.shields.io/badge/MCA-AI%20%26%20ML-7C3AED?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/BCA-CGPA%209.61-6366F1?style=for-the-badge&logo=bookstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-Software%20Engineer-A855F7?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 
-<br/>
+About Section
 
-<img src="https://img.shields.io/badge/BCA-Graduate-7C3AED?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/MCA-Aspirant-6366F1?style=for-the-badge&logo=bookstack&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20%7C%20ML-Enthusiast-A855F7?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+MCA (Artificial Intelligence & Machine Learning) student with strong foundations in Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Software Engineering, and Machine Learning.
 
-<br/>
+Experienced in developing AI-powered applications using Python, Scikit-Learn, Pandas, Streamlit, SQL, and machine learning techniques. Passionate about solving real-world challenges through software engineering and intelligent systems.
 
-<img src="https://img.shields.io/badge/Location-Bihar%2C%20India-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+I enjoy transforming ideas into practical solutions through analytical thinking, continuous learning, and hands-on project development.
 
-<br/><br/>
 
-<a href="https://portfolio.example.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+Open To
+- Software Engineer Roles
+- AI / ML Engineer Roles
+- Graduate Trainee Programs
+- Internship Opportunities
+- Technical Communities & Collaborations
 
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+Tech Stack
 
-<a href="mailto:your.email@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/yourusername">
-<img src="https://img.shields.io/badge/GitHub-Profile-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=7C3AED"/>
-
-<img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=6366F1&label=Followers"/>
-
-<img src="https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=A855F7&label=Stars"/>
-
-</div>
-
----
-
-# About
-
-Software Engineer with a strong foundation in **AI/ML Engineering, Full Stack Development, Data Science, and Product Engineering**. Passionate about designing scalable systems, building intelligent applications, and transforming complex business problems into impactful software solutions.
-
-My engineering approach combines:
-
-- Software Engineering Best Practices
-- Machine Learning & Predictive Analytics
-- Full Stack Web Development
-- Cloud-Native Application Design
-- Data-Driven Product Development
-- Performance Optimization & Security
-- Open Source Collaboration
-
-I enjoy working across the entire product lifecycle—from ideation and architecture to deployment and continuous improvement.
-
-### Open To
-
-- Software Engineering Roles
-- AI / ML Engineering Opportunities
-- Full Stack Development Positions
-- Product Engineering Teams
-- Open Source Collaborations
-- Research & Innovation Projects
-
----
-
-# Tech Stack
-
-## Languages
-
+Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript,sql,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,mysql,html,css" />
+</p>
+Core Computer Science
+<p align="center">
+Data Structures & Algorithms • Object-Oriented Programming • DBMS • Operating Systems • Software Engineering
+</p>
+AI & ML
+<p align="center">
+Python • Scikit-Learn • Pandas • NumPy • Streamlit • Machine Learning • Generative AI
+</p>
+Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-## Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,vite" />
-</p>
-
-## Backend & Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,mysql,postgresql,mongodb,firebase" />
-</p>
-
-## Cloud, DevOps & Tooling
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,postman,vscode,vercel,netlify" />
-</p>
-
----
-
-# AI / ML Expertise
+AI / ML Expertise Table
 
 | Domain | Proficiency | Details |
 |----------|------------|----------|
-| Machine Learning | Advanced | Supervised & Unsupervised Learning |
-| Deep Learning | Intermediate | Neural Networks, CNN Fundamentals |
-| Data Science | Advanced | Data Cleaning, EDA, Visualization |
-| Model Deployment | Advanced | Flask, Streamlit, API Deployment |
-| MLOps | Intermediate | CI/CD Concepts, Monitoring |
-| NLP | Intermediate | Text Classification & Processing |
-| Recommendation Systems | Advanced | Personalized Prediction Models |
-| Predictive Analytics | Advanced | Business & Decision Intelligence |
-| Feature Engineering | Advanced | Data Transformation & Optimization |
-| Generative AI | Intermediate | LLM Workflows & AI Applications |
+| Machine Learning | Advanced | Classification, Regression & Predictive Models |
+| Recommendation Systems | Advanced | Personalized Recommendation Engines |
+| Data Analysis | Advanced | Data Cleaning & Insight Generation |
+| Feature Engineering | Advanced | Data Preparation & Transformation |
+| Explainable AI | Intermediate | SHAP-Based Interpretability |
+| Model Deployment | Intermediate | Streamlit-Based Applications |
+| Predictive Analytics | Advanced | Data-Driven Decision Making |
+| Generative AI | Intermediate | LLM & AI Fundamentals |
 
----
+Featured Projects
 
-# Featured Projects
+1. Career Guidance System
+Python • Machine Learning • Pandas • Scikit-Learn
+Developed a recommendation system that suggests career paths based on user interests and skills. Implemented machine learning-based prediction and personalized recommendations to support career decision-making.
 
-<details>
-<summary><b>Smart Irrigation System using Machine Learning</b></summary>
+2. Movie Recommendation System
+Python • Pandas • NumPy
+Built a content-based recommendation engine that generates personalized movie suggestions using similarity techniques and user preferences.
 
-### Project Overview
+3. Phishing Detection Using ML
+Python • Streamlit • Scikit-Learn • SHAP
+Developed a phishing URL detection system using Random Forest. Extracted URL-based features and implemented explainable AI techniques to improve prediction transparency.
 
-AI-powered irrigation recommendation system that predicts optimal irrigation requirements based on agricultural parameters and environmental conditions.
+Experience
 
-| Category | Details |
-|-----------|----------|
-| Stack | Python, Streamlit, Scikit-Learn, Pandas |
-| Scale | Agricultural Decision Support |
-| Performance | Real-Time Predictions |
-| Security | Input Validation & Sanitization |
-| Impact | Improved Water Resource Management |
-| Repository | [View Project](https://github.com/yourusername) |
+Software Engineering Job Simulation — Accenture
+August 2025
+Completed a software engineering simulation focused on solving real-world business challenges through engineering best practices and structured development workflows.
+Skills:
+Software Engineering • Problem Solving • Requirements Analysis • Technical Documentation
 
-### Engineering Highlights
+Software Engineer Certification — HackerRank
+April 2026
+Successfully completed HackerRank's Software Engineer assessment demonstrating software development and problem-solving competency.
+Skills:
+Programming • Algorithms • Software Engineering • Problem Solving
 
-- End-to-end ML pipeline
-- Data preprocessing and feature engineering
-- Model training and evaluation
-- Streamlit deployment
-- Real-time prediction interface
-- Production-ready architecture
-
-</details>
-
-<details>
-<summary><b>Machine Learning Model Deployment Portal</b></summary>
-
-### Project Overview
-
-A scalable platform enabling users to upload datasets, evaluate machine learning models, and generate predictions through an intuitive dashboard.
-
-| Category | Details |
-|-----------|----------|
-| Stack | React, Flask, Python, REST APIs |
-| Scale | Multi-Model Deployment Platform |
-| Performance | Optimized Prediction Workflows |
-| Security | API Validation & Authentication |
-| Impact | Democratized Model Accessibility |
-| Repository | [View Project](https://github.com/yourusername) |
-
-### Engineering Highlights
-
-- React-based frontend
-- Flask backend architecture
-- API-driven communication
-- CSV and text input processing
-- Model performance dashboards
-- Extensible deployment framework
-
-</details>
-
-<details>
-<summary><b>Career Recommendation System</b></summary>
-
-### Project Overview
-
-Intelligent recommendation platform leveraging machine learning algorithms to provide career guidance based on user skills and interests.
-
-| Category | Details |
-|-----------|----------|
-| Stack | Python, Streamlit, Random Forest |
-| Scale | Career Intelligence Platform |
-| Performance | High Accuracy Recommendations |
-| Security | Validated User Inputs |
-| Impact | Enhanced Career Decision Making |
-| Repository | [View Project](https://github.com/yourusername) |
-
-### Engineering Highlights
-
-- Recommendation engine
-- Random Forest modeling
-- User profiling system
-- Interactive dashboard
-- Predictive analytics workflow
-- Scalable architecture
-
-</details>
-
-<details>
-<summary><b>Student Management System</b></summary>
-
-### Project Overview
-
-Full-stack academic administration platform for managing student records, attendance, academic reports, and administrative workflows.
-
-| Category | Details |
-|-----------|----------|
-| Stack | PHP, MySQL, HTML, CSS, JavaScript |
-| Scale | Educational Institution Management |
-| Performance | Optimized Database Operations |
-| Security | Authentication & Authorization |
-| Impact | Streamlined Academic Processes |
-| Repository | [View Project](https://github.com/yourusername) |
-
-### Engineering Highlights
-
-- CRUD operations
-- Authentication modules
-- Relational database design
-- Reporting features
-- User role management
-- Secure data handling
-
-</details>
-
----
-
-# Experience
-
-## Software Engineering Virtual Experience Program — Accenture
-
-**Date Range:** 2026
-
-### Professional Description
-
-Completed an industry-focused software engineering simulation emphasizing enterprise software development, agile collaboration, architecture evaluation, and technical problem-solving.
-
-### Scope of Work
-
-- Analyzed enterprise software requirements
-- Applied software engineering principles
-- Evaluated architecture decisions
-- Produced technical documentation
-- Practiced agile methodologies
-- Simulated real-world engineering workflows
-
-### Skills
-
-`Software Engineering` `Agile` `Architecture Design` `Problem Solving` `Documentation`
-
----
-
-## Software Engineering Certification — HackerRank
-
-**Date Range:** 2026
-
-### Professional Description
-
-Demonstrated software engineering competency through coding assessments and practical problem-solving challenges.
-
-### Scope of Work
-
-- Data Structures & Algorithms
-- Software Development Principles
-- Debugging & Optimization
-- Technical Assessments
-
-### Skills
-
-`Algorithms` `Problem Solving` `Coding` `Software Engineering`
-
----
-
-# Achievements
-
-<div align="center">
-
+Achievements
 | Recognition | Details |
 |-------------|---------|
-| Academic Excellence | Strong Computer Science Foundation |
-| AI/ML Projects | Built Multiple End-to-End ML Solutions |
+| State-Level Ideathon | Secured 2nd Runner-Up Position |
+| Blind Coding Competition | Secured 2nd Runner-Up Position |
+| Academic Excellence | Graduated BCA with CGPA 9.61 |
+| Machine Learning Projects | Developed Multiple AI-Based Applications |
 | Software Engineering Certification | HackerRank Certified |
-| Industry Simulation | Accenture Software Engineering Experience |
-| Open Source Learning | Continuous Contribution & Collaboration |
-| Technical Growth | Consistent Upskilling Across Technologies |
+| Industry Exposure | Accenture Software Engineering Simulation |
 
-</div>
+Certifications
 
----
-
-# Certifications
-
-## AWS
-
-<img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-## Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Database%20Fundamentals-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-## NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Computer%20Science-005BAC?style=for-the-badge"/>
-
-## Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-## HackerRank
+<img src="https://img.shields.io/badge/IIT%20Madras-AI%20%26%20ML%20in%20Python-7C3AED?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/HackerRank-Software%20Engineer-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 
-## Forage
+<img src="https://img.shields.io/badge/Accenture-Software%20Engineering%20Simulation-A100FF?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Forage-Accenture%20Simulation-6A5ACD?style=for-the-badge"/>
+Current Focus YAML
 
----
-
-# Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Certified%20Developer-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge"/>
-</a>
-
-</div>
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# Current Focus
-
-```yaml
 Learning:
-  - System Design
-  - Advanced Machine Learning
-  - Cloud Engineering
-  - Scalable Backend Architecture
+  - Data Structures & Algorithms
+  - Machine Learning
+  - Generative AI
+  - Software Engineering
 
 Building:
-  - AI-Powered Applications
-  - Full Stack Platforms
-  - ML Deployment Systems
-  - Open Source Projects
+  - Machine Learning Applications
+  - Recommendation Systems
+  - AI-Powered Projects
 
 Exploring:
-  - Generative AI
-  - LLM Applications
-  - MLOps
-  - Product Engineering
+  - Explainable AI
+  - Large Language Models
+  - Software Design Principles
 
 Open_To:
-  - Software Engineering Roles
-  - AI/ML Engineering Roles
-  - Full Stack Development
+  - Software Engineer Roles
+  - AI/ML Engineer Roles
   - Internship Opportunities
-  - Open Source Collaboration
-```
+  - Technical Collaborations
 
----
+  <div align="center">
 
-# Connect
-
-<div align="center">
-
-<a href="mailto:ishakumaridng@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="www.linkedin.com/in/isha-kumari-6874ab258">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/isha31127">
-<img src="https://img.shields.io/badge/GitHub-Follow-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<!-- <a href="https://portfolio.example.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit-A855F7?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a> -->
-
-</div>
-
----
-
-<div align="center">
-
-*"Engineering intelligent systems today to solve tomorrow's challenges."*
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4F46E5,25:6366F1,50:7C3AED,75:8B5CF6,100:A855F7"/>
+<i>"Turning ideas into intelligent software through continuous learning, problem solving, and innovation."</i>
 
 </div>
