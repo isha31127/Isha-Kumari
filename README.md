@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=MCA+(AI+%26+ML)+Student;Aspiring+Software+Engineer;Machine+Learning+Enthusiast;Problem+Solver;Building+AI-Powered+Applications"/>
 
-#Academic Badges
+# Academic Badges
 
 <img src="https://img.shields.io/badge/MCA-AI%20%26%20ML-7C3AED?style=for-the-badge&logo=academia&logoColor=white"/>
 <img src="https://img.shields.io/badge/BCA-CGPA%209.61-6366F1?style=for-the-badge&logo=bookstack&logoColor=white"/>
@@ -28,10 +28,12 @@ I enjoy transforming ideas into practical solutions through analytical thinking,
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,mysql,html,css" />
 </p>
+
 ## Core Computer Science
 <p align="center">
 Data Structures & Algorithms • Object-Oriented Programming • DBMS • Operating Systems • Software Engineering
 </p>
+
 ## AI & ML
 <p align="center">
 Python • Scikit-Learn • Pandas • NumPy • Streamlit • Machine Learning • Generative AI
